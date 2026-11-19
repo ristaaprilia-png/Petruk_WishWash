@@ -1,0 +1,6 @@
+id_pesanan,nama_pelanggan,layanan,jumlah,harga_satuan,total,status,tanggal_masuk
+ORD-001,Budi Santoso,Cuci Setrika,6,8000,48000,Diambil,2026-11-08
+ORD-002,Sari Wulandari,Cuci Kering,4,6000,24000,Dicuci,2026-11-10
+ORD-003,Dewi Lestari,Selimut,2,25000,50000,Selesai,2026-11-09
+ORD-004,Andi Pratama,Setrika Saja,3.5,5000,17500,Diterima,2026-11-12
+ORD-005,Rina Marlina,Jaket,1,15000,15000,Diambil,2026-11-08
